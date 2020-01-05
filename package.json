@@ -1,6 +1,5 @@
 {
   "name": "tibiacalculators",
-  "homepage": "http://asantoss.github.io/tibiacalculators",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
