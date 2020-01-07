@@ -17,7 +17,7 @@ function App() {
 					<AppMain>
 						<Route component={PartyHunt} path='/partyhunt' exact />
 						<Route component={PartyLoot} path='/partyloot' exact />
-						<Route component={Home} path='/' exact />
+						<Route component={PartyHunt} path='/' exact />
 					</AppMain>
 				</div>
 			</Router>
